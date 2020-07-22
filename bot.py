@@ -184,4 +184,4 @@ async def dab(ctx):
     await member.add_roles(role)
     print ("You're in buddy, now don't fuck it up")
 
-client.run(process.env.)
+client.run(process.env.TOKEN)
